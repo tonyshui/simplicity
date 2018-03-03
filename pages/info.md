@@ -1,54 +1,23 @@
 ---
-subheadline: 'Info'
-title: 'Why I designed *Simplicity*'
+subheadline: 'About'
+title: 'Welcome'
 permalink: /info/
 ---
-The idea behind *Simplicity* is to build a theme which is elegant, ver&shy;satile but still fast, without any clutter and the pur&shy;pose to make blogging and publishing as easy as possible.
+
+## Why I created Nintendo Shui
+
+Recently, more and more of my friends have started publishing content on Medium, and it's got me inspired. They offer unique perspectives through the lenses of their own worldviews on topics ranging from trivial to pressing. I've realized that I have never published anything I've ever written (i.e. a Facebook status) because I've believed that I don't have much to say - I'm just a 19 year old college student! However, one crucial and applicable principle I've learned while coding through my Computer Science courses is to iterate as much as possible. Get that [MVP][1] out early, receive feedback, and make changes. In the case of this blog, I'm here to really become an intentional human being. Through a consistent iteration and feedback loop on my thoughts on what I find meaningful, I will figure out where I'm really at in the bigger picture, where my ideal destination is, find my direction from point A to point B, document my journey along the way, and have fun with it.
+
+Also it looks dope to recruiters.
+
+If you have comments/questions/love letters/hate mail/funny jokes, click [here][2] and I'll get back to you.
 
 <!--more-->
 
-While sketching *Simplicity* I asked myself: »How much can I strip down from a post. How much [front matter][3] is truly needed?« And the answer is really simple: For pages or posts you need **no front matter at all**. You create a file, name it and Jekyll uses the file name automatically if you don't add `title` to front matter.
 
+This blog is powered using the Jekyll engine. I'm using a template called *Simplicity* which was developed by [Moritz »mo.« Sauer][3]. You can download it [here][4]. I plan on making a tutorial on how to set that all up on github pages for free!
 
-## *Simplicity* chooses the layout for you
-
-And because you can define the default-layout in *_config.yml*. You don't need to add *title:* to front matter either. But what makes this theme truly elegant is, that if you need some tasty video on top of your posting or a nice image, you do it like this…
-
-{% highlight html %}
----
-youtube: https://www.youtube.com/watch?v=8pQAWOCofXo
----
-{% endhighlight %}
-
-or that…
-
-{% highlight html %}
-image: image-on-top-of-post.jpg
-{% endhighlight %}
-
-The layout figures out what to do :)
-
-And if you are a blogger who enjoys spicing up his posts, there are plenty of possibilities. Maybe like this?!?
-
-{% highlight html %}
-subheadline:    I love'em
-title:          Your Title
-header_image:   amazing_header_image.jpg
-comments:       true
-show_meta:      true
-embed:          <iframe>…</iframe>
-{% endhighlight %}
-
-For more options, [download *Simplicity*][4] and check out its well-documented templates, includes and layout-options.
-
-All the best from [Cologne][1], [Moritz »mo.« Sauer][2]
-
-
-
-
-
-
-[1]: https://www.google.de/maps/place/K%C3%B6lner+Dom/@38.5398373,2.1154583,4z/data=!3m1!5s0x47bf25baabc20433:0x312b7d4db7d02b48!4m2!3m1!1s0x47bf25a5369c3d2f:0x29ec913896e3a9c6
-[2]: http://moritz.sauer.io
-[3]: https://jekyllrb.com/docs/frontmatter/
+[1]: https://www.google.com/search?rlz=1C5CHFA_enUS689US689&ei=UAKaWo6SC-XHjwSsiquICQ&q=miminal+viable+product&oq=miminal+viable+product&gs_l=psy-ab.3..0i71k1l8.719189.719189.0.719329.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.-6zAOPLQurI
+[2]: /contact
+[3]: http://moritz.sauer.io
 [4]: https://github.com/Phlow/simplicity

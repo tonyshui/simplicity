@@ -25,14 +25,14 @@
 
 
 # Title and description of your site
-title         : 'Simplicity'
-description   : 'Simplicity is a fast and easy to use jekyll theme for minimalists concentrating on elegance and flexibility.'
-slogan        : 'A Minimalistic Jekyll Theme'
+title         : 'Nintendo Shui'
+description   : ''
+slogan        : ''
 
 
 
 # Build settings
-url           : 'https://phlow.github.io/simplicity'
+url           : 'https://tonyshui.github.io/simplicity'
 baseurl       : ''
 markdown      : kramdown
 highlighter   : rouge
@@ -121,7 +121,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: false  # Hide metadata for all pages
       comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for pages
+      author: 'Anthony Shui'     # Default author for pages
   -
     scope:
       path: ''
@@ -129,8 +129,8 @@ defaults:
     values:
       layout: page      # Set default layout to page
       show_meta: true   # Show metadata for all posts
-      comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for posts
+      comments: true
+      author: 'Anthony Shui'     # Default author for posts
 
 
 
@@ -140,7 +140,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+# google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 # bing_webmastertools_id   : ''
 # alexa_verify_id          : ''
 
@@ -216,9 +216,9 @@ sass:
 # _/includes/_4_footer.html.
 
 socialmedia:
-    youtube: PhlowMedia
-    github: phlow
-    twitter: phlow
+    # youtube: PhlowMedia
+    github: tonyshui
+    #twitter: phlow
     # facebook: phlow.media
     # soundcloud: phlow
     # tumblr: motizen
