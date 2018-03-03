@@ -32,7 +32,7 @@ slogan        : ''
 
 
 # Build settings
-url           : 'https://tonyshui.github.io'
+url           : 'anthonyshui.me'
 baseurl       : ''
 markdown      : kramdown
 highlighter   : rouge
