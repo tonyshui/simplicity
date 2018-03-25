@@ -34,7 +34,7 @@ What were the odds of this entire encounter though? We both had to have gone to 
 
 Gotta say, Cong is a damn cool guy, and I wouldn't have known any better if the circumstances had been any less perfect. Which makes me think. So many events in life are on a whim. As much as we can try to plan out every action to take, there are so many unaccountable factors that it doesn't even make sense to try and plan everything down to a tee. 
 
-For example, take my college experience so far. I've met close friends because we lived in the same dorm (Markley) and the surrounding Hill dormitories. I've met other close friends solely because we happened to sit next to each other in class. And yes, one of the most unique relationships I've formed came from recognizing a professor on an airplane. The dorms, students in my classes, and fellow passengers are not under my control, which reiterates my point that sometimes the best things in life are just by chance.
+For example, take my college experience so far. I've met close friends because we lived in the same dorm (Markley) and the surrounding Hill dormitories. I've met other close friends solely because we happened to sit next to each other in class. And yes, one of the most unique relationships I've formed came from recognizing a professor on an airplane. My dormmates, classmates, and fellow passengers are not under my control, which reiterates my point that sometimes the best things in life are just by chance.
 
 # Lesson learned
 
