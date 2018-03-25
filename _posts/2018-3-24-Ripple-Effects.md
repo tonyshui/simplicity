@@ -24,7 +24,7 @@ After 5 days of soaking in good Cancún vibes (video coming soon), I was ready t
 
 A quick glance to my right revealed a strangely familiar middle-aged Asian man. I did a double-take. And a triple-take. And a quadruple take for good measure. It was [Dr. Cong Shi][1], my Statistics Professor from the Industrial & Operations Engineering department last semester. A quick exchange of hellos led to one of the best conversations I've ever had. For the entire duration of the flight, we shared stories, perspectives, and advice. I learned about Cong's online gaming days during his college days in Singapore where he was ranked globally in the MMORPG DoTA, his study-abroad experience at UC Berkeley where he had to use a shovel to stir a giant vat full of baked beans when cooking for his 40-person housing cooperative, his decision to pursue his Ph.D at MIT following a brief stint at Citi Sales and Trading, and his weekly trips with his wife and kids to Shangri-La and Hong Hua, two savory Chinese restaurants in Metro Detroit that I frequent all the time as well.
 
-![Cong, Shui, and Zhang](../images/The_Ripple_Effect/cong.jpg){:class="img-responsive"}
+![Cong, Shui, and Zhang](../images/The_Ripple_Effect/cong.JPG){:class="img-responsive"}
 
 The ripple effect of me taking his stats course led me to recognize him on the plane and engage in conversation. From this encounter, I've started to build a strong relationship with Cong. We're connected on WeChat (Chinese Social Media) - yeah, we are *that* serious. Just last week, we caught up for the first time since the flight over some lunch at Fireside Café at Pierpont Commons and we've already planned our next lunch. 
 
