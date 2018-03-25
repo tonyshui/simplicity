@@ -4,17 +4,11 @@ title               : 'The Ripple Effect'
 image        		: 'The_Ripple_Effect/ripple.jpg'
 ---
 
-The assassination of Archduke Franz Ferdinand of Austria in 1914 triggered WWI. WWI propelled the U.S. forward as the leading power and creditor in the world as European countries sunk into debt and monarchies crumbled. Most historians agree that the losses suffered and harsh conditions post-WWI contributed to an atmosphere of bitterness that allowed the rise of the Nazi Party and the start of WW2. The balance of power after WW2 led to the Cold War, and the ensuing space race.
-
-Although each link in a chain of events may not be directly responsible for the next, it's mind-boggling to think that the assassination of a single person potentially contributed to the United States placing a man on the moon decades later.
+> "the continuing and spreading results of an event or action"
 
 <!--more-->
 
-# What is the Ripple Effect
-
-> Ripple Effect - the continuing and spreading results of an event or action.
-
-The ripple effect can refer to large historical events that affect a global impact like the example above. On the other end of the spectrum, the ripple effect can refer to me having to pull an all-nighter to make up 7 lectures before a midterm because I consistently talk myself out of taking the 15-minute bus ride to attend class and that procrastination adds up.
+The ripple effect can refer to large historical events that trigger one another. On the other end of the spectrum, the ripple effect can refer to me having to pull an all-nighter to make up 7 lectures before a midterm because I consistently talk myself out of taking the 15-minute bus ride to attend class and that procrastination adds up.
 
 The ripple effect isn't a novel idea - most people are aware of it. But I decided to draw special attention to this phenomenom because of something inexplicably fortuitous that happened to me during spring break this year.
 
