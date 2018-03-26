@@ -10,13 +10,13 @@ image        		: 'The_Ripple_Effect/ripple.jpg'
 
 The ripple effect can refer to large historical events that trigger one another, such as WWII lifting the United States out of the Great Depression. The ripple effect can also refer to pulling an all-nighter to make up 7 lectures before a midterm because I consistently talk myself out of taking the 15-minute bus ride to attend class.
 
-The ripple effect isn't a novel idea - most people are aware of it. But I decided to draw special attention to this phenomenom because of something inexplicably fortuitous that happened to me this year.
+The ripple effect isn't a novel idea - most people are aware of it. But I decided to draw special attention to this phenomenon because of something inexplicably fortuitous that happened to me this year.
 
 # My crazy experience
 
-After 5 days of soaking in good Cancún vibes for Spring Break, I was ready to head home and gear up for the imminent academic onslaught as classes resumed. Sitting on my left in the airplane sat my friend Alex, who I vacationed with.
+After 5 days of soaking in good Cancun vibes for Spring Break, I was ready to head home and gear up for the imminent academic onslaught as classes resumed. Sitting on my left in the airplane was my friend Alex, who I vacationed with.
 
-A quick glance to my right revealed a strangely familiar middle-aged Asian man. I did a double-take. And a triple-take. And a quadruple take for good measure. It was [Dr. Cong Shi][1], my Statistics Professor from the Industrial & Operations Engineering department last semester. A quick exchange of hellos led to one of the best conversations I've ever had. For the entire duration of the flight, we shared stories, perspectives, and advice. I learned about Cong's online gaming days during his college days in Singapore where he was ranked globally in the MMORPG DoTA, his study-abroad experience at UC Berkeley where he had to use a shovel to stir a giant vat full of baked beans when cooking for his 40-person housing cooperative, his decision to pursue his Ph.D at MIT following a brief stint at Citi Sales and Trading, and his weekly trips with his wife and kids to Shangri-La and Hong Hua, two savory Chinese restaurants in Metro Detroit that I frequent all the time. I came out of the conversation with newfound perspectives on what I wanted out of college and my career as well.
+A quick glance to my right revealed a strangely familiar middle-aged Asian man. I did a double-take. And a triple-take. And a quadruple take for good measure. It was [Dr. Cong Shi][1], my Statistics Professor from the Industrial & Operations Engineering department last semester. A quick exchange of hellos led to one of the best conversations I've ever had. For the entire duration of the flight, we shared stories, perspectives, and advice. I learned about Cong's obsession with online gaming during his college days in Singapore where he was ranked globally in the MMORPG DoTA, his study-abroad experience at UC Berkeley where he had to use a shovel to stir a giant vat full of baked beans when cooking for his 40-person housing cooperative, his decision to pursue his Ph.D at MIT following a brief stint at Citi Sales and Trading, and his weekly trips with his wife and kids to Shangri-La and Hong Hua, two savory Chinese restaurants in Metro Detroit that I frequent all the time. I came out of the conversation with newfound perspectives on what I wanted out of college and my career as well.
 
 ![Cong, Shui, and Zhang](../images/The_Ripple_Effect/cong.JPG){:class="img-responsive"}
 
@@ -26,9 +26,9 @@ The ripple effect of me taking his stats course led me to recognize him on the p
 
 Gotta say, Cong is a damn cool guy, and I wouldn't have known any better if the circumstances had been any less perfect. Which makes me think. So many events in life are by whim. As much as we can try to plan out every action to take, there are just too many unaccountable factors.
 
-Take the odds of this encounter for example. We both had to have gone to Cancún, leave on the same flight, AND sit in the same row. Plus, I had to have taken his class before or else I wouldn't have recognized him as anyone but a middle-aged Asian man. I would have spent the hours watching movies and TV shows through my Bose QC35s without a care in the world.
+Take the odds of this encounter for example. We both had to have gone to Cancun, leave on the same flight, AND sit in the same row. Plus, I had to have taken his class before or else I wouldn't have recognized him as anyone but a middle-aged Asian man. I would have spent the hours watching movies and TV shows through my Bose QC35s without a care in the world.
 
-I've met close friends because we lived in the same dorm. I've met other close friends solely because we happened to sit next to each other in class. And yes, one of the most unique relationships I've formed came from recognizing a professor on an airplane. My dormmates, classmates, and fellow passengers are not under my control, yet some of these chance encounters have rippled into so many meaningful relationships and experiences shared. Definitely some food for thought.
+I've met close friends because we lived in the same dorm. I've met other close friends solely because we happened to sit next to each other in class. And yes, one of the most unique relationships I've formed came from recognizing a professor on an airplane. My dorm mates, classmates, and fellow passengers are not under my control, yet some of these chance encounters have rippled into so many meaningful relationships and experiences shared. Definitely some food for thought.
 
 # Reflections
 
