@@ -6,10 +6,7 @@ permalink: /info/
 
 ## Why I created Feng Shui
 
-Recently, more and more of my friends have started publishing content on Medium, and it's got me inspired. They offer unique perspectives through the lenses of their own worldviews on topics ranging from trivial to pressing. I've realized that I have never published anything I've ever written (i.e. a Facebook status) because I've believed that I don't have much to say - I'm just a 19 year old college student! However, one crucial and applicable principle I've learned while coding through my Computer Science courses is to iterate as much as possible. Get that [MVP][1] out early, receive feedback, and make changes. In the case of this blog, I'm here to really become an intentional human being. Through a consistent iteration and feedback loop on my thoughts on what I find meaningful, I will figure out where I'm really at in the bigger picture, where my ideal destination is, find my direction from point A to point B, document my journey along the way, and have fun with it.
-
-
-
+Recently, a few of my friends have started publishing content on Medium, and it has got me inspired. They offer unique perspectives through the lenses of their own worldviews on topics ranging from trivial to pressing. I've realized that I have never published anything I've ever written (i.e. a Facebook status) because I've believed that I don't have much to say - I'm just a 19 year old college student! However, a principle I've learned through my coding courses is to iterate as much as possible. Get that [MVP][1] out early, receive feedback, and make the necessary changes. In the case of this blog, I'm here to really become an intentional human being. Through a consistent iteration and feedback loop on my thoughts on what I find meaningful, I will figure out where I currently sit in the bigger picture, where my ideal destination is, find my direction, document my journey along the way, and have fun with it.
 
 Also it looks dope to recruiters.
 

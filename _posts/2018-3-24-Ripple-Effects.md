@@ -6,9 +6,9 @@ image        		: 'The_Ripple_Effect/ripple.jpg'
 
 > "the continuing and spreading results of an event or action"
 
-<!--more-->
-
 The ripple effect can refer to large historical events that trigger one another, such as WWII lifting the United States out of the Great Depression. The ripple effect can also refer to pulling an all-nighter to make up 7 lectures before a midterm because I consistently talk myself out of taking the 15-minute bus ride to attend class.
+
+<!--more-->
 
 The ripple effect isn't a novel idea - most people are aware of it. But I decided to draw special attention to this phenomenon because of something inexplicably fortuitous that happened to me this year.
 
