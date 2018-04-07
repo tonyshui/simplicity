@@ -1,12 +1,12 @@
 ---
-title               : "The Best Job A Student Can Have (of my opinion)"
+title               : "Sustaining My Potato Curry Addiction"
 ---
 
 The University of Michigan is host to a variety of job opportunities for its students. Some students may choose to work in the dining halls, where they can improve skills in interpersonal communications, team dynamics, dependality, and time management while getting paid (also free meals!!).
 
 Other students might get paid doing research in a lab with a professor. Student-researchers can gain valuable skills, get a leg up on graduate school, and also contribute knowledge and impact the world!
 
-Dining halls and research are just two student employment opportunities of many on campus. One in particular, EECS Instruction Aide, is a position that I hope to obtain in the *near* future (hopefully) because I believe that one of the best, if not the best student job, is being an EECS IA - and here's why.
+Dining halls and research are just two student employment opportunities of many on campus. One in particular, EECS Instruction Aide, is a position that I hope to obtain in the *near* future (hopefully) because I believe that one of the best jobs, if not the best, is being an EECS IA - and here's why.
 
 <!--more-->
 
