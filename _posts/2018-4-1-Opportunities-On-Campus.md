@@ -1,5 +1,5 @@
 ---
-title               : "Sustaining My Potato Curry Addiction"
+title               : "Opportunities-On-Campus"
 ---
 
 The University of Michigan is host to a variety of job opportunities for its students. Some students may choose to work in the dining halls, where they can improve skills in interpersonal communications, team dynamics, dependality, and time management while getting paid (also free meals!!).
@@ -23,11 +23,5 @@ It would not be a long shot to say that I could just as easily been studying som
 My EECS280 and EECS281 IA's were arguably the most influential in helping me enjoy computer science. While EECS Professors are super knowledgeable, its often difficult to create a personal relationship with them because of the sheer student to faculty ratio. I was able to receive more one-on-one time with my IA's when I needed help, and they were the ones who really made it fun for me. 
 
 The opportunity to 'pay it forward' and inspire proactive learning into students, like my previous IA's did for me, would be an opportunity that I would love to have.
-
-# Other Rewards
-
-In addition, the compensation ain't too shabby either. I realize that without a steady income, my addiction for No Thai's Potato Curry is not a sustainable habit. Here's some quick math. From what I've heard, EECS IA's get paid about 25 an hour. With an estimated 5 hours worked per week and 4 weeks per month, thats 500 dollars a month, or about 50 dishes of Potato Curry!!! 
-
-**Now we're talking.**
 
 
