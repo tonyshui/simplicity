@@ -1,5 +1,5 @@
 ---
-title               : "Opportunities-On-Campus"
+title               : "Opportunities On Campus"
 ---
 
 The University of Michigan is host to a variety of job opportunities for its students. Some students may choose to work in the dining halls, where they can improve skills in interpersonal communications, team dynamics, dependality, and time management while getting paid (also free meals!!).
