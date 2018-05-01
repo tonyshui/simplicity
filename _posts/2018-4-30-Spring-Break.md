@@ -1,11 +1,8 @@
 ---
 title: 'Spring Break in Mexico'
+video: 'https://youtu.be/H3mEAMHxhBo'
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H3mEAMHxhBo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-Well, better late than never - I finally got around to editing some of the footage my friends and I took during Spring Break this year. Let me know what you think of the video above!
+Well, better late than never - I finally got around to editing some of the footage my friends and I took during Spring Break this year. Let me know what you think of the video above! Click here! -->
 
 <!--more-->
 
