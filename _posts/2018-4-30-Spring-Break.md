@@ -2,7 +2,7 @@
 title: 'Spring Break in Mexico'
 video: 'https://youtu.be/H3mEAMHxhBo'
 ---
-Well, better late than never - I finally got around to editing some of the footage my friends and I took during Spring Break this year. Let me know what you think of the video above! Click here! -->
+Well, better late than never - I finally got around to editing some of the footage my friends and I took during Spring Break this year. Let me know what you think of the video above!
 
 <!--more-->
 
