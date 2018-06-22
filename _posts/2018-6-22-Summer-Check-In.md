@@ -9,7 +9,7 @@ image: 'Summer-Check-In/freedom-tower.jpg'
 ---
 
 
-3 weeks have gone by since I moved to NYC for a 10-week internship program with JPMorgan & Chase. It feels like I just flew in to LaGuardia Airport not more than a couple days ago, yet we're already beginning to near the halfway marker - crazy! Which brings me to the purpose of this blog post - a brief but very necessary *~reflection~*. It's time to stop for a moment, rethink, and gain more self-awareness.
+3 weeks have gone by since I moved to NYC for a 10-week internship program with JPMorgan & Chase. It feels like I just flew in to LaGuardia Airport not more than a couple days ago, yet we're already beginning to near the halfway marker - crazy! Which brings me to the purpose of this blog post - a brief but very necessary <br> *~reflection~*. It's time to stop for a moment, rethink, and gain more self-awareness.
 
 <!--more-->
 
