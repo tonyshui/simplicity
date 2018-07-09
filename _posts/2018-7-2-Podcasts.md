@@ -22,7 +22,7 @@ title: 'Read This If you Commute Everyday (basically read this)'
 
 Engineering classes at the University of Michigan in Ann Arbor are located on North Campus, a 20 minute commute from Central Campus. 20 minutes doesn't seem that bad until you realize how much it adds up.
 
-Time for some quick AnAlYsIs:
+Time for some quick maths:
 
 40 minute round trip to North Campus x 3 trips per week (on average) x 4 weeks per month x 7 months per school year = 3360 minutes, or 56 hours just spent COMMUTING🚎. Of course, with my class-skipping habit, this rough estimate is no doubt overshot, but let's just pretend I'm a decent student... 😅
 
