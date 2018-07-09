@@ -59,6 +59,8 @@ image: 'Summer-Check-In/freedom-tower.jpg'
 * Other generic attractions (high line, central park, brooklyn bridge, etc) 🌉
 * Pick up basketball and soccer at scenic facilities 🏀⚽️
 
+
+
 [1]: https://www.youtube.com/channel/UCAamxct2vaBWANwmucg01NA?sub_confirmation=1
 [2]: https://www.medicaldaily.com/benefits-cold-showers-7-reasons-why-taking-cool-showers-good-your-health-289524
 [3]: https://www.youtube.com/watch?v=c6sOI-i7tZA
