@@ -19,8 +19,7 @@ title: 'Read This If you Commute Everyday (basically read this)'
 
 <!--more-->
 
-
-Engineering classes at the University of Michigan in Ann Arbor are located on North Campus, a 20 minute commute from Central Campus. 20 minutes doesn't seem that bad until you realize how much it adds up.
+It worked out decently because I got some awesome recommendations that have I've ingrained into my weekly school routine. You see, engineering classes at the University of Michigan in Ann Arbor are located on North Campus, a 20 minute commute from Central Campus. 20 minutes doesn't seem that bad until you realize how much it adds up.
 
 Time for some quick maths:
 
