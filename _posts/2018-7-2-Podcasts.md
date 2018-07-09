@@ -1,6 +1,6 @@
 ---
 subheadline: 'On Podcasts'
-title: 'Read This If you Commute Everyday (basically read this)'
+title: 'Instant Boost to your Daily Productivity'
 #
 # If you need a caption, just uncomment the following lines
 #
@@ -25,7 +25,7 @@ Time for some quick maths:
 
 40 minute round trip to North Campus x 3 trips per week (on average) x 4 weeks per month x 7 months per school year = 3360 minutes, or 56 hours just spent COMMUTING🚎. Of course, with my class-skipping habit, this rough estimate is no doubt overshot, but let's just pretend I'm a decent student... 😅
 
-Sometimes, it's nice to have those 40 minutes to myself, bump the latest bop🎧, meditate, or converse with commuting friends🗣. But at the same time, 42 *choice expletive* hours. 42!!! I could listen to over 300 10-minute podcasts ranging from <a href="https://player.fm/series/tedtalks-audio/how-we-can-turn-the-cold-of-outer-space-into-a-renewable-resource-aaswath-raman" target="_blank">how we can turn outer space into a renewable resource</a> to <a href="http://freakonomics.com/podcast/how-stupid-obsession-lawns/" target="_blank">why our obsession with lawns is downright stupid</a>. I highly recommend trying out podcasts if you haven't already, as there is something for virtually anyone. You can squeeze in some extra learning, get a motivational high-five to start your day, listen to comedy podcasts for laughs, or audiobooks (not really podcasts) too if you find that's your kind of thing.
+Sometimes, it's nice to have those 40 minutes to myself, bump the latest bop🎧, meditate, or converse with commuting friends🗣. But at the same time, 56 *choice expletive* hours. 56!!! I could listen to over 300 10-minute podcasts ranging from <a href="https://player.fm/series/tedtalks-audio/how-we-can-turn-the-cold-of-outer-space-into-a-renewable-resource-aaswath-raman" target="_blank">how we can turn outer space into a renewable resource</a> to <a href="http://freakonomics.com/podcast/how-stupid-obsession-lawns/" target="_blank">why our obsession with lawns is downright stupid</a>. I highly recommend trying out podcasts if you haven't already, as there is something for virtually anyone. You can squeeze in some extra learning, get a motivational high-five to start your day, listen to comedy podcasts for laughs, or audiobooks (not really podcasts) too if you find that's your kind of thing.
 
 **Here's a list of 9 Free, Informative, and Engaging Podcasts that I love listening to (in no particular order):**
 
