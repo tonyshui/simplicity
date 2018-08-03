@@ -15,6 +15,9 @@ From time to time, I hear a quote and I think DAMN and then I forget about it. O
 <!--more-->
 
 > »Maturity is letting go of good alternatives in pursuit of better ones.«<cite>Ray Dalio - Principles</cite>
+
 > »There's a buffet above the table.«<cite>My boss's boss</cite>
+
 > »Friends come and go but Enemies accumulate.«<cite>My boss's boss</cite>
+
 > »Your manager's perception is your reality.«<cite>My boss's boss</cite>
