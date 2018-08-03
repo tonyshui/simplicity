@@ -21,3 +21,5 @@ From time to time, I hear a quote and I think DAMN and then I forget about it. O
 > »Friends come and go but Enemies accumulate.«<cite>My boss's boss</cite>
 
 > »Your manager's perception is your reality.«<cite>My boss's boss</cite>
+
+> »Tell your heart that the fear of suffering is worse than the suffering itself. And that no heart has ever suffered when it goes in search of its dreams, because every second of the search is a second’s encounter with God and with eternity. «<cite>The Alchemist</cite>
