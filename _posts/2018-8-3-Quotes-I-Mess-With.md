@@ -1,6 +1,6 @@
 ---
 subheadline: "Nobody knows what it means but it's provocative"
-title: 'Quotes I fw'
+title: 'Quotes I mess with'
 header_image: 'Quotes/scenery.JPG'
 header_caption: 'my mom and her friends'
 #
@@ -10,7 +10,7 @@ header_caption: 'my mom and her friends'
 # caption_url: ''
 ---
 
-From time to time, I hear a quote and I think DAMN and then I forget about it. Or I'll write it down in some notes or scribble it down somewhere on my iPad. Point is, it'd be nice to have a single place where I can log some dope quotes that I am impacted by. Some you might find interesting. Others might not make sense without context.
+From time to time, I hear a brilliant quote, and promptly forget it. Sometimes I'll write it down in some notes or scribble it down somewhere on my iPad. It'd be nice to have a single place where I can log some awe-inspiring quotes that I come across. Some you might find interesting. Others might not make sense without context...
 
 <!--more-->
 
