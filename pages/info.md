@@ -6,9 +6,7 @@ permalink: /info/
 
 ## Why I created Feng Shui
 
-Recently, a few of my friends have started publishing content on Medium, and it has got me inspired. They offer unique perspectives through the lenses of their own worldviews on topics ranging from trivial to pressing. I've realized that I have never published anything I've ever written (i.e. a Facebook status) because I've believed that I don't have much to say - I'm just a 19 year old college student! However, a principle I've learned through my coding courses is to iterate as much as possible. Get that [MVP][1] out early, receive feedback, and make the necessary changes. In the case of this blog, I'm here to really become an intentional human being. Through a consistent iteration and feedback loop on my thoughts on what I find meaningful, I will figure out where I currently sit in the bigger picture, where my ideal destination is, find my direction, document my journey along the way, and have fun with it.
-
-Also it looks dope to recruiters.
+Recently, a few of my friends have started publishing content on Medium, and it has got me inspired. They offer unique perspectives through the lenses of their own worldviews on topics ranging from trivial to pressing. I've realized that I have never published anything I've ever written (i.e. a Facebook status) because I've believed that I don't have much to say - I'm just a 20 year old college student! However, a principle I've learned through my coding courses is to iterate as much as possible. Get that [MVP][1] out early, receive feedback, and make the necessary changes. In the case of this blog, I'm here to really become an intentional human being. Through a consistent iteration and feedback loop on my thoughts on what I find meaningful, I will figure out where I currently sit in the bigger picture, where my ideal destination is, find my direction, document my journey along the way, and have fun with it.
 
 If you have comments/questions/love letters/hate mail/funny jokes, click [here][2] and I'll get back to you.
 
