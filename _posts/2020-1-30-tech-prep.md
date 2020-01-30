@@ -1,4 +1,20 @@
-Tech prep
+---
+subheadline: 'it\'s grind szn'
+title: 'The Blind 75'
+image: ''
+fullwidth: true
+embed: ''
+youtube: ''
+link: ''
+quote: ''
+#
+# If you need a caption, just uncomment the following lines
+#
+# caption: ''
+# caption_url: ''
+---
+Technical Prep
+<!--more-->
 
 1. Two Sum
 
